@@ -1,0 +1,5 @@
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\SwinnyLibrary\SwinnyLibrary\bin\Debug\SwinnyLibrary.dacpac
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\SwinnyLibrary\SwinnyLibrary\bin\Debug\SwinnyLibrary.dll
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\SwinnyLibrary\SwinnyLibrary\bin\Debug\SwinnyLibrary.pdb
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\SwinnyLibrary\SwinnyLibrary\obj\Debug\SwinnyLibrary.dll
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\SwinnyLibrary\SwinnyLibrary\obj\Debug\SwinnyLibrary.pdb
